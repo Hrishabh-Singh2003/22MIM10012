@@ -1,0 +1,5 @@
+{
+  "/api/local-notifications/route": "app/api/local-notifications/route.js",
+  "/page": "app/page.js",
+  "/priority/page": "app/priority/page.js"
+}
